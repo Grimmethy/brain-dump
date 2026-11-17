@@ -1,0 +1,8 @@
+{
+  "name": "brain-dump",
+  "version": "0.0.0",
+  "private": false,
+  "scripts": {
+    "test": "node --test tests/"
+  }
+}
